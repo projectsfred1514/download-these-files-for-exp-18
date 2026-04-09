@@ -1,0 +1,10 @@
+open docker desktop 
+download the files - dockerfile and java file
+on terminal inside the folder
+run -> docker login -u fredie1514
+enter the password -> ICare!!!!
+run -> docker tag java-app fredie1514/java-app:v1
+run -> docker push fredie1514/java-app:v1
+
+open docker hub - login as fredie1514
+then under repositories check java-file
