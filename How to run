@@ -8,3 +8,6 @@ run -> docker push fredie1514/java-app:v1
 
 open docker hub - login as fredie1514
 then under repositories check java-file
+
+
+if you see java-app already on dockerhub change the name to something else in the commands
