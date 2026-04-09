@@ -1,5 +1,5 @@
 open docker desktop 
-download the files - dockerfile and java file
+download the files - dockerfile and java file from this repo
 on terminal inside the folder
 run -> docker login -u fredie1514
 enter the password -> ICare!!!!
